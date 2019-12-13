@@ -1,0 +1,1 @@
+# hide-ampscript-from-editor
